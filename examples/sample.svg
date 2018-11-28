@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="752" width="500" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<line id="Chr13" stroke="grey" stroke-width="2" x1="10" x2="193.790562784135" y1="14" y2="14" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="start" width="10" x="10" y="10">Chr13</text>
+	<rect height="8" id="AET3G0158300" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 1" width="108.543658880702" x="47.6610754036683" y="10" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="101.914093118044" y="28">AET3G0158300</text>
+	<polyline id="gene_orientation-66.9140931180436" points="69.4140931180436,11 64.4140931180436,14 69.4140931180436,17 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="gene_orientation-101.914093118044" points="104.414093118044,11 99.4140931180436,14 104.414093118044,17 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="gene_orientation-136.914093118044" points="139.414093118044,11 134.414093118044,14 139.414093118044,17 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158300.1-intron-252518197-252518325-joiner" points="79.0766577833516,46 81.4093118043581,41 83.8172127292679,46 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158300.1-intron-252518378-252518496-joiner" points="85.8865025866123,46 88.0310393478602,41 90.2508230130114,46 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158300.1-intron-252518660-252519264-joiner" points="96.4963160369964,46 107.783351622511,41 119.14563411193,46 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158300.1-intron-252519482-252519618-joiner" points="127.422793541307,46 129.905941370121,41 132.464336102837,46 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158300.1-intron-252519704-252519802-joiner" points="135.775199874589,46 137.543502116319,41 139.387051261953,46 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<rect height="5" id="AET3G0158300.1-utr5-252520012-252520247" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="8.87913466060511" x="147.325599623765" y="48.5" />
+	<rect height="5" id="AET3G0158300.1-utr3-252517363-252517672" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="11.6632701050321" x="47.6610754036683" y="48.5" />
+	<rect height="10" id="AET3G0158300.1-CDS-252517673-252518197" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="19.7523122746512" x="59.3243455087004" y="46" />
+	<rect height="10" id="AET3G0158300.1-CDS-252518325-252518378" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="2.03166640539269" x="83.8548361812196" y="46" />
+	<rect height="10" id="AET3G0158300.1-CDS-252518496-252518660" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="6.20786957203323" x="90.2884464649632" y="46" />
+	<rect height="10" id="AET3G0158300.1-CDS-252519264-252519482" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="8.23953597742593" x="119.183257563881" y="46" />
+	<rect height="10" id="AET3G0158300.1-CDS-252519618-252519704" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="3.27324031979934" x="132.501959554789" y="46" />
+	<rect height="10" id="AET3G0158300.1-CDS-252519802-252520011" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="7.90092490986048" x="139.424674713905" y="46" />
+	<polyline id="AET3G0158300.1-CDS_orientation-69.1816899200502" points="71.6816899200502,48 66.6816899200502,51 71.6816899200502,54 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158300.1-CDS_orientation-93.3735695250039" points="95.8735695250039,48 90.8735695250039,51 95.8735695250039,54 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158300.1-CDS_orientation-123.284213826619" points="125.784213826619,48 120.784213826619,51 125.784213826619,54 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158300.1-CDS_orientation-143.356325442859" points="145.856325442859,48 140.856325442859,51 145.856325442859,54 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="101.914093118044" y="66">AET3G0158300.1</text>
+	<polyline id="AET3G0158300.2-intron-252518197-252518325-joiner" points="79.0766577833516,76 81.4093118043581,71 83.8172127292679,76 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158300.2-intron-252518378-252518496-joiner" points="85.8865025866123,76 88.0310393478602,71 90.2508230130114,76 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158300.2-intron-252518660-252519264-joiner" points="96.4963160369964,76 107.783351622511,71 119.14563411193,76 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<rect height="5" id="AET3G0158300.2-utr5-252519486-252519487" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="0.0752469039034331" x="127.535663897163" y="78.5" />
+	<rect height="5" id="AET3G0158300.2-utr3-252517364-252517672" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="11.6256466530804" x="47.69869885562" y="78.5" />
+	<rect height="10" id="AET3G0158300.2-CDS-252517673-252518197" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="19.7523122746512" x="59.3243455087004" y="76" />
+	<rect height="10" id="AET3G0158300.2-CDS-252518325-252518378" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="2.03166640539269" x="83.8548361812196" y="76" />
+	<rect height="10" id="AET3G0158300.2-CDS-252518496-252518660" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="6.20786957203323" x="90.2884464649632" y="76" />
+	<rect height="10" id="AET3G0158300.2-CDS-252519264-252519485" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="8.35240633328108" x="119.183257563881" y="76" />
+	<polyline id="AET3G0158300.2-CDS_orientation-69.1816899200502" points="71.6816899200502,78 66.6816899200502,81 71.6816899200502,84 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158300.2-CDS_orientation-93.3735695250039" points="95.8735695250039,78 90.8735695250039,81 95.8735695250039,84 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158300.2-CDS_orientation-123.340649004546" points="125.840649004546,78 120.840649004546,81 125.840649004546,84 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="87.6359931023671" y="96">AET3G0158300.2</text>
+	<polyline id="AET3G0158300.3-intron-252518197-252518325-joiner" points="79.0766577833516,106 81.4093118043581,101 83.8172127292679,106 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158300.3-intron-252518378-252518496-joiner" points="85.8865025866123,106 88.0310393478602,101 90.2508230130114,106 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158300.3-intron-252518660-252519264-joiner" points="96.4963160369964,106 107.783351622511,101 119.14563411193,106 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158300.3-intron-252519483-252519618-joiner" points="127.460416993259,106 129.924753096097,101 132.464336102837,106 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158300.3-intron-252519704-252519802-joiner" points="135.775199874589,106 137.543502116319,101 139.387051261953,106 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<rect height="5" id="AET3G0158300.3-utr5-252519849-252519849" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="0.0376234519517166" x="141.192976955636" y="108.5" />
+	<rect height="5" id="AET3G0158300.3-utr3-252517634-252517672" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="1.46731462611695" x="57.8570308825835" y="108.5" />
+	<rect height="10" id="AET3G0158300.3-CDS-252517673-252518197" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="19.7523122746512" x="59.3243455087004" y="106" />
+	<rect height="10" id="AET3G0158300.3-CDS-252518325-252518378" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="2.03166640539269" x="83.8548361812196" y="106" />
+	<rect height="10" id="AET3G0158300.3-CDS-252518496-252518660" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="6.20786957203323" x="90.2884464649632" y="106" />
+	<rect height="10" id="AET3G0158300.3-CDS-252519264-252519483" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="8.27715942937765" x="119.183257563881" y="106" />
+	<rect height="10" id="AET3G0158300.3-CDS-252519618-252519704" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="3.27324031979934" x="132.501959554789" y="106" />
+	<rect height="10" id="AET3G0158300.3-CDS-252519802-252519848" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="1.76830224173068" x="139.424674713905" y="106" />
+	<polyline id="AET3G0158300.3-CDS_orientation-69.1816899200502" points="71.6816899200502,108 66.6816899200502,111 71.6816899200502,114 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158300.3-CDS_orientation-93.3735695250039" points="95.8735695250039,108 90.8735695250039,111 95.8735695250039,114 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158300.3-CDS_orientation-123.303025552594" points="125.803025552594,108 120.803025552594,111 125.803025552594,114 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="99.5250039191096" y="126">AET3G0158300.3</text>
+	<polyline id="AET3G0158300.4-intron-252518197-252518325-joiner" points="79.0766577833516,136 81.4093118043581,131 83.8172127292679,136 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158300.4-intron-252518378-252518496-joiner" points="85.8865025866123,136 88.0310393478602,131 90.2508230130114,136 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<rect height="5" id="AET3G0158300.4-utr5-252518664-252518664" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="0.0376234519517166" x="96.6091863928515" y="138.5" />
+	<rect height="5" id="AET3G0158300.4-utr3-252517646-252517672" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="1.01583320269635" x="58.3085123060041" y="138.5" />
+	<rect height="10" id="AET3G0158300.4-CDS-252517673-252518197" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="19.7523122746512" x="59.3243455087004" y="136" />
+	<rect height="10" id="AET3G0158300.4-CDS-252518325-252518378" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="2.03166640539269" x="83.8548361812196" y="136" />
+	<rect height="10" id="AET3G0158300.4-CDS-252518496-252518663" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="6.32073992788838" x="90.2884464649632" y="136" />
+	<polyline id="AET3G0158300.4-CDS_orientation-69.1816899200502" points="71.6816899200502,138 66.6816899200502,141 71.6816899200502,144 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158300.4-CDS_orientation-93.4300047029315" points="95.9300047029315,138 90.9300047029315,141 95.9300047029315,144 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="77.4588493494278" y="156">AET3G0158300.4</text>
+	<polyline id="AET3G0158300.5-intron-252518378-252518496-joiner" points="85.8865025866123,166 88.0310393478602,161 90.2508230130114,166 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158300.5-intron-252518660-252519264-joiner" points="96.4963160369964,166 107.783351622511,161 119.14563411193,166 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158300.5-intron-252519482-252519618-joiner" points="127.422793541307,166 129.905941370121,161 132.464336102837,166 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<rect height="10" id="AET3G0158300.5-CDS-252518283-252518378" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="3.61185138736479" x="82.2746511992475" y="166" />
+	<rect height="10" id="AET3G0158300.5-CDS-252518496-252518660" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="6.20786957203323" x="90.2884464649632" y="166" />
+	<rect height="10" id="AET3G0158300.5-CDS-252519264-252519482" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="8.23953597742593" x="119.183257563881" y="166" />
+	<rect height="10" id="AET3G0158300.5-CDS-252519618-252519695" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="2.93462925223389" x="132.501959554789" y="166" />
+	<polyline id="AET3G0158300.5-CDS_orientation-93.3735695250039" points="95.8735695250039,168 90.8735695250039,171 95.8735695250039,174 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158300.5-CDS_orientation-123.284213826619" points="125.784213826619,168 120.784213826619,171 125.784213826619,174 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="108.836808277159" y="186">AET3G0158300.5</text>
+	<rect height="5" id="AET3G0158300.7-utr5-252519720-252519720" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="0.0376234519517166" x="136.339551653864" y="198.5" />
+	<rect height="5" id="AET3G0158300.7-utr3-252519054-252519596" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="20.4295344097821" x="111.282332654021" y="198.5" />
+	<rect height="10" id="AET3G0158300.7-CDS-252519597-252519719" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="4.62768459006114" x="131.711867063803" y="196" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="123.810942153943" y="216">AET3G0158300.7</text>
+	<polyline id="AET3G0158300.8-intron-252519704-252519802-joiner" points="135.775199874589,226 137.543502116319,221 139.387051261953,226 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<rect height="5" id="AET3G0158300.8-utr5-252520012-252520204" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="7.2613262266813" x="147.325599623765" y="228.5" />
+	<rect height="5" id="AET3G0158300.8-utr3-252519523-252519596" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="2.78413544442703" x="128.927731619376" y="228.5" />
+	<rect height="10" id="AET3G0158300.8-CDS-252519597-252519704" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="4.06333281078539" x="131.711867063803" y="226" />
+	<rect height="10" id="AET3G0158300.8-CDS-252519802-252520011" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="7.90092490986048" x="139.424674713905" y="226" />
+	<polyline id="AET3G0158300.8-CDS_orientation-143.356325442859" points="145.856325442859,228 140.856325442859,231 145.856325442859,234 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="141.738517008936" y="246">AET3G0158300.8</text>
+	<line id="Chr3" stroke="grey" stroke-width="2" x1="10" x2="490" y1="282" y2="282" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="start" width="10" x="10" y="278">Chr3</text>
+	<rect height="8" id="AET3G0158200" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 1" width="438.614202853112" x="47.6610754036683" y="278" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="266.949365104248" y="296">AET3G0158200</text>
+	<polyline id="gene_orientation-91.9493651042483" points="89.4493651042483,279 94.4493651042483,282 89.4493651042483,285 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="gene_orientation-126.949365104248" points="124.449365104248,279 129.449365104248,282 124.449365104248,285 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="gene_orientation-161.949365104248" points="159.449365104248,279 164.449365104248,282 159.449365104248,285 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="gene_orientation-196.949365104248" points="194.449365104248,279 199.449365104248,282 194.449365104248,285 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="gene_orientation-231.949365104248" points="229.449365104248,279 234.449365104248,282 229.449365104248,285 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="gene_orientation-266.949365104248" points="264.449365104248,279 269.449365104248,282 264.449365104248,285 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="gene_orientation-301.949365104248" points="299.449365104248,279 304.449365104248,282 299.449365104248,285 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="gene_orientation-336.949365104248" points="334.449365104248,279 339.449365104248,282 334.449365104248,285 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="gene_orientation-371.949365104248" points="369.449365104248,279 374.449365104248,282 369.449365104248,285 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="gene_orientation-406.949365104248" points="404.449365104248,279 409.449365104248,282 404.449365104248,285 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="gene_orientation-441.949365104248" points="439.449365104248,279 444.449365104248,282 439.449365104248,285 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158200.1-intron-251704684-251711864-joiner" points="168.808590688196,314 303.801536290955,309 438.869728797617,314 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<rect height="5" id="AET3G0158200.1-utr5-251704460-251704460" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="0.0376234519517166" x="160.343313999059" y="316.5" />
+	<rect height="5" id="AET3G0158200.1-utr3-251712672-251713095" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="15.9523436275278" x="469.307101426556" y="316.5" />
+	<rect height="10" id="AET3G0158200.1-CDS-251704461-251704684" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="8.42765323718451" x="160.380937451011" y="314" />
+	<rect height="10" id="AET3G0158200.1-CDS-251711864-251712671" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="30.399749176987" x="438.907352249569" y="314" />
+	<polyline id="AET3G0158200.1-CDS_orientation-164.575952343628" points="162.075952343628,316 167.075952343628,319 162.075952343628,322 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158200.1-CDS_orientation-454.088415112087" points="451.588415112087,316 456.588415112087,319 451.588415112087,322 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="322.782567800596" y="334">AET3G0158200.1</text>
+	<rect height="5" id="AET3G0158200.2-utr5-251701465-251701712" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="9.33061608402571" x="47.6610754036683" y="346.5" />
+	<rect height="5" id="AET3G0158200.2-utr3-251702136-251702136" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="0.0376234519517166" x="72.9064116632701" y="346.5" />
+	<rect height="10" id="AET3G0158200.2-CDS-251701713-251702135" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="15.9147201755761" x="56.991691487694" y="344" />
+	<polyline id="AET3G0158200.2-CDS_orientation-64.9302398495062" points="62.4302398495062,346 67.4302398495062,349 62.4302398495062,352 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="60.2837435334692" y="364">AET3G0158200.2</text>
+	<polyline id="AET3G0158200.3-intron-251702228-251702281-joiner" points="76.4053926947797,374 77.3271672675968,369 78.3241887443173,374 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158200.3-intron-251702940-251703123-joiner" points="103.193290484402,374 106.560589434081,369 110.003135287663,374 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<rect height="5" id="AET3G0158200.3-utr5-251701713-251702228" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="19.4137012070858" x="56.991691487694" y="376.5" />
+	<rect height="5" id="AET3G0158200.3-utr5-251702281-251702281" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="0.0376234519517166" x="78.361812196269" y="376.5" />
+	<rect height="5" id="AET3G0158200.3-utr3-251703127-251703167" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="1.54256153002038" x="110.191252547421" y="376.5" />
+	<rect height="10" id="AET3G0158200.3-CDS-251702282-251702940" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="24.7938548361812" x="78.3994356482207" y="374" />
+	<rect height="10" id="AET3G0158200.3-CDS-251703123-251703126" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="0.150493807806866" x="110.040758739614" y="374" />
+	<polyline id="AET3G0158200.3-CDS_orientation-90.7775513403355" points="88.2775513403355,376 93.2775513403355,379 88.2775513403355,382 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="84.3439410565919" y="394">AET3G0158200.3</text>
+	<polyline id="AET3G0158200.4-intron-251702936-251703558-joiner" points="103.042796676595,404 114.668443329675,399 126.369336886659,404 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158200.4-intron-251703736-251704461-joiner" points="133.141558237968,404 146.704812666562,399 160.343313999059,404 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158200.4-intron-251704684-251711864-joiner" points="168.808590688196,404 303.801536290955,399 438.869728797617,404 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<rect height="5" id="AET3G0158200.4-utr5-251701713-251702281" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="21.4077441605267" x="56.991691487694" y="406.5" />
+	<rect height="10" id="AET3G0158200.4-CDS-251702282-251702936" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="24.6433610283744" x="78.3994356482207" y="404" />
+	<rect height="10" id="AET3G0158200.4-CDS-251703558-251703736" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="6.73459789935727" x="126.406960338611" y="404" />
+	<rect height="10" id="AET3G0158200.4-CDS-251704461-251704684" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="8.42765323718451" x="160.380937451011" y="404" />
+	<rect height="10" id="AET3G0158200.4-CDS-251711864-251712671" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="30.399749176987" x="438.907352249569" y="404" />
+	<polyline id="AET3G0158200.4-CDS_orientation-90.702304436432" points="88.202304436432,406 93.202304436432,409 88.202304436432,412 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158200.4-CDS_orientation-129.755447562314" points="127.255447562314,406 132.255447562314,409 127.255447562314,412 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158200.4-CDS_orientation-164.575952343628" points="162.075952343628,406 167.075952343628,409 162.075952343628,412 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158200.4-CDS_orientation-454.088415112087" points="451.588415112087,406 456.588415112087,409 451.588415112087,412 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="263.130584731149" y="424">AET3G0158200.4</text>
+	<polyline id="AET3G0158200.5-intron-251702936-251703558-joiner" points="103.042796676595,434 114.668443329675,429 126.369336886659,434 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<rect height="5" id="AET3G0158200.5-utr3-251703737-251703737" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="0.0376234519517166" x="133.141558237968" y="436.5" />
+	<rect height="10" id="AET3G0158200.5-CDS-251702273-251702936" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="24.9819720959398" x="78.0608245806553" y="434" />
+	<rect height="10" id="AET3G0158200.5-CDS-251703558-251703736" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="6.73459789935727" x="126.406960338611" y="434" />
+	<polyline id="AET3G0158200.5-CDS_orientation-90.5329989026493" points="88.0329989026493,436 93.0329989026493,439 88.0329989026493,442 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158200.5-CDS_orientation-129.755447562314" points="127.255447562314,436 132.255447562314,439 127.255447562314,442 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="105.601191409312" y="454">AET3G0158200.5</text>
+	<rect height="5" id="AET3G0158200.6-utr5-251702274-251702275" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="0.0752469039034331" x="78.098448032607" y="466.5" />
+	<rect height="5" id="AET3G0158200.6-utr3-251703005-251703314" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="11.6632701050321" x="105.601191409312" y="466.5" />
+	<rect height="10" id="AET3G0158200.6-CDS-251702276-251703004" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="27.4274964728014" x="78.1736949365104" y="464" />
+	<polyline id="AET3G0158200.6-CDS_orientation-91.8686314469353" points="89.3686314469353,466 94.3686314469353,469 89.3686314469353,472 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="97.6626430474996" y="484">AET3G0158200.6</text>
+	<polyline id="AET3G0158200.7-intron-251702581-251702648-joiner" points="89.6864712337357,494 90.8716099702148,489 92.1319956105973,494 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158200.7-intron-251702936-251703558-joiner" points="103.042796676595,494 114.668443329675,489 126.369336886659,494 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158200.7-intron-251703736-251704461-joiner" points="133.141558237968,494 146.704812666562,489 160.343313999059,494 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158200.7-intron-251704684-251711864-joiner" points="168.808590688196,494 303.801536290955,489 438.869728797617,494 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<rect height="5" id="AET3G0158200.7-utr3-251712060-251712060" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="0.0376234519517166" x="446.281548832105" y="496.5" />
+	<rect height="10" id="AET3G0158200.7-CDS-251702534-251702581" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="1.8059256936824" x="87.8805455400533" y="494" />
+	<rect height="10" id="AET3G0158200.7-CDS-251702648-251702936" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="10.8731776140461" x="92.169619062549" y="494" />
+	<rect height="10" id="AET3G0158200.7-CDS-251703558-251703736" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="6.73459789935727" x="126.406960338611" y="494" />
+	<rect height="10" id="AET3G0158200.7-CDS-251704461-251704684" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="8.42765323718451" x="160.380937451011" y="494" />
+	<rect height="10" id="AET3G0158200.7-CDS-251711864-251712059" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="7.37419658253645" x="438.907352249569" y="494" />
+	<polyline id="AET3G0158200.7-CDS_orientation-97.5873961435962" points="95.0873961435962,496 100.087396143596,499 95.0873961435962,502 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158200.7-CDS_orientation-129.755447562314" points="127.255447562314,496 132.255447562314,499 127.255447562314,502 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158200.7-CDS_orientation-164.575952343628" points="162.075952343628,496 167.075952343628,499 162.075952343628,502 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158200.7-CDS_orientation-442.575638814861" points="440.075638814861,496 445.075638814861,499 440.075638814861,502 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="267.081047186079" y="514">AET3G0158200.7</text>
+	<polyline id="AET3G0158200.8-intron-251703736-251704461-joiner" points="133.141558237968,524 146.704812666562,519 160.343313999059,524 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<polyline id="AET3G0158200.8-intron-251704684-251711864-joiner" points="168.808590688196,524 303.801536290955,519 438.869728797617,524 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<rect height="5" id="AET3G0158200.8-utr3-251712672-251713108" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="16.4414485029001" x="469.307101426556" y="526.5" />
+	<rect height="10" id="AET3G0158200.8-CDS-251703557-251703736" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="6.77222135130898" x="126.369336886659" y="524" />
+	<rect height="10" id="AET3G0158200.8-CDS-251704461-251704684" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="8.42765323718451" x="160.380937451011" y="524" />
+	<rect height="10" id="AET3G0158200.8-CDS-251711864-251712671" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="30.399749176987" x="438.907352249569" y="524" />
+	<polyline id="AET3G0158200.8-CDS_orientation-129.736635836338" points="127.236635836338,526 132.236635836338,529 127.236635836338,532 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158200.8-CDS_orientation-164.575952343628" points="162.075952343628,526 167.075952343628,529 162.075952343628,532 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3G0158200.8-CDS_orientation-454.088415112087" points="451.588415112087,526 456.588415112087,529 451.588415112087,532 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="306.040131682082" y="544">AET3G0158200.8</text>
+	<rect height="5" id="AET3G0158200.9-utr5-251711779-251711864" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="3.23561686784763" x="435.709358833673" y="556.5" />
+	<rect height="5" id="AET3G0158200.9-utr3-251712672-251713122" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="16.9681768302242" x="469.307101426556" y="556.5" />
+	<rect height="10" id="AET3G0158200.9-CDS-251711865-251712671" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="30.3621257250353" x="438.944975701521" y="554" />
+	<polyline id="AET3G0158200.9-CDS_orientation-454.107226838062" points="451.607226838062,556 456.607226838062,559 451.607226838062,562 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="460.973506819251" y="574">AET3G0158200.9</text>
+	<line id="Chr4" stroke="grey" stroke-width="2" x1="10" x2="149.319642577206" y1="610" y2="610" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="start" width="10" x="10" y="606">Chr4</text>
+	<rect height="8" id="AET3GNEW0000001" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 1" width="64.0727386737733" x="47.6610754036683" y="606" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="79.6786330145791" y="624">AET3GNEW0000001</text>
+	<polyline id="gene_orientation-79.6786330145791" points="82.1786330145791,607 77.1786330145791,610 82.1786330145791,613 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<polyline id="AET3GNEW0000001.1-intron-252605749-252606768-joiner" points="66.8866593509954,642 85.9805612164916,637 105.149709985891,642 " style="fill-opacity: 0; stroke: black; stroke-width: 1" />
+	<rect height="5" id="AET3GNEW0000001.1-utr5-252606817-252606941" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="4.70293149396457" x="107.030882583477" y="644.5" />
+	<rect height="5" id="AET3GNEW0000001.1-utr3-252605239-252605333" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="3.57422793541307" x="47.6610754036683" y="644.5" />
+	<rect height="10" id="AET3GNEW0000001.1-CDS-252605334-252605749" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="15.6513560119141" x="51.2353033390814" y="642" />
+	<rect height="10" id="AET3GNEW0000001.1-CDS-252606768-252606816" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="1.84354914563411" x="105.187333437843" y="642" />
+	<polyline id="AET3GNEW0000001.1-CDS_orientation-59.0421696190625" points="61.5421696190625,644 56.5421696190625,647 61.5421696190625,650 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="79.6786330145791" y="662">AET3GNEW0000001.1</text>
+	<line id="Chr5" stroke="grey" stroke-width="2" x1="10" x2="109.702147672049" y1="698" y2="698" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="start" width="10" x="10" y="694">Chr5</text>
+	<rect height="8" id="AET3G0158400" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 1" width="48.3461357579558" x="47.6610754036683" y="694" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="71.8153315566703" y="712">AET3G0158400</text>
+	<polyline id="gene_orientation-71.8153315566703" points="74.3153315566703,695 69.3153315566703,698 74.3153315566703,701 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<rect height="5" id="AET3G0158400.1-utr5-253296779-253297413" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="23.89089198934" x="72.1163191722841" y="732.5" />
+	<rect height="5" id="AET3G0158400.1-utr3-253296129-253296274" style="fill: black; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="5.49302398495062" x="47.6610754036683" y="732.5" />
+	<rect height="10" id="AET3G0158400.1-CDS-253296275-253296778" style="fill: blue; fill-opacity: 1; stroke: black; stroke-opacity: 1; stroke-width: 0" width="18.9622197836652" x="53.1540993886189" y="730" />
+	<polyline id="AET3G0158400.1-CDS_orientation-62.6163975544756" points="65.1163975544756,732 60.1163975544756,735 65.1163975544756,738 " style="fill-opacity: 0; stroke: white; stroke-width: 1" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="71.8153315566703" y="750">AET3G0158400.1</text>
+	<line id="ruler" stroke="black" stroke-width="5" x1="452.376548048283" x2="490" y1="732" y2="732" />
+	<text font-family="Arail" font-size="10" height="10" text-anchor="middle" width="10" x="471.188274024142" y="742">1000 bp</text>
+	<!-- 
+	Generated using the Perl SVG Module V2.64
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+ -->
+</svg>
