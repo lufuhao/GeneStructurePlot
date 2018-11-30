@@ -110,6 +110,7 @@ my %track_start=();
 my $max_x=0;
 
 ### setting plot height
+
 my $ind_y_start=${$config}{'main'}{'plot_margin_top_size'};
 foreach my $ind_ref (sort keys %{$referenceids}) {
 	my @draw_chr_length=();
@@ -172,6 +173,20 @@ if ($verbose) {
 ### start plot
 my $vectorout=SVG->new(width=>${$config}{'main'}{'plot_width'}, height=>$total_y);
 
+if (${$config}{'main'}{'plot_background_draw'}=~/true$/i) {
+	$vectorout->rectangle(x => 0, 
+				y => 0, 
+				width  	=> ${$config}{'main'}{'plot_width'}, 
+				height => $total_y,
+				id=> "background",
+				style => {'fill' => ${$config}{'main'}{'plot_fill_color'},
+				'fill-opacity'   => ${$config}{'main'}{'plot_fill_opaque'},
+				'stroke'         => ${$config}{'main'}{'plot_stroke_color'},
+				'stroke-width'   => ${$config}{'main'}{'plot_stroke_size'},
+				'stroke-opacity' => ${$config}{'main'}{'plot_stroke_opaque'},
+						},
+				);
+}
 my ($xx1,$xx2,$yy1,$yy2);
 foreach my $ind_ref (sort keys %{$referenceids}) {
 	my $x_start=${$config}{'main'}{'plot_margin_left_size'};
@@ -439,21 +454,24 @@ foreach my $ind_ref (sort keys %{$referenceids}) {
 	}
 }
 if (${$config}{'ruler'}{'ruler_draw'}=~/^true$/i) {
-	my $ruler_length=10**(length($max_x)-2);
+	my $ruler_length=substr ($max_x, 0, 1) * 10**(length($max_x)-2);
+	if (exists ${$config}{'ruler'}{'ruler_stroke_seq_length'} and ${$config}{'ruler'}{'ruler_stroke_seq_length'}=~/^\d+$/) {
+		$ruler_length=${$config}{'ruler'}{'ruler_stroke_seq_length'};
+	}
 	if ($verbose) {
 		print "Max_x $max_x ruler $ruler_length\n";
 	}
 	
 	$vectorout->line (id=> "ruler",
 					x1 => ${$config}{'main'}{'plot_width'}-${$config}{'main'}{'plot_margin_right_size'}-$ruler_length*$x_factor,
-					y1 => $total_y-${$config}{'main'}{'plot_margin_bottom_size'}, 
+					y1 => $total_y-${$config}{'main'}{'plot_margin_bottom_size'}/2, 
 					x2 => ${$config}{'main'}{'plot_width'}-${$config}{'main'}{'plot_margin_right_size'}, 
-					y2 => $total_y-${$config}{'main'}{'plot_margin_bottom_size'}, 
+					y2 => $total_y-${$config}{'main'}{'plot_margin_bottom_size'}/2, 
 					stroke => ${$config}{'ruler'}{'ruler_stroke_color'}, 
 					"stroke-width" => ${$config}{'ruler'}{'ruler_stroke_size'}
 				);
 	$vectorout->text(	x => ${$config}{'main'}{'plot_width'}-${$config}{'main'}{'plot_margin_right_size'}-$ruler_length*$x_factor/2, 
-					y => $total_y-${$config}{'main'}{'plot_margin_bottom_size'}+${$config}{'main'}{'plot_font_size'}, 
+					y => $total_y-${$config}{'main'}{'plot_margin_bottom_size'}/2+${$config}{'main'}{'plot_font_size'}, 
 					width => ${$config}{'main'}{'plot_font_size'}, 
 					height => ${$config}{'main'}{'plot_font_size'}, 
 					"font-family"=>${$config}{'main'}{'plot_font_family'}, 
