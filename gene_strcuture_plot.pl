@@ -140,7 +140,11 @@ foreach my $ind_ref (sort keys %{$referenceids}) {
 	}
 	@draw_chr_length=sort {$a<=>$b} @draw_chr_length;
 	$chrom_start{$ind_ref}= (($draw_chr_length[0]-${$config}{'chrom'}{'chrom_flanking_length'})>0) ? ($draw_chr_length[0]-${$config}{'chrom'}{'chrom_flanking_length'}) : 1;
-	$chrom_end{$ind_ref}=(($draw_chr_length[-1]+${$config}{'chrom'}{'chrom_flanking_length'})<=${$config}{'chrom'}{lc($ind_ref)}) ? ($draw_chr_length[-1]+${$config}{'chrom'}{'chrom_flanking_length'}) : ${$config}{'chrom'}{lc($ind_ref)};
+	if (exists ${$config}{'chrom'} and exists ${$config}{'chrom'}{lc($ind_ref)}) {
+		$chrom_end{$ind_ref}=(($draw_chr_length[-1]+${$config}{'chrom'}{'chrom_flanking_length'})<=${$config}{'chrom'}{lc($ind_ref)}) ? ($draw_chr_length[-1]+${$config}{'chrom'}{'chrom_flanking_length'}) : ${$config}{'chrom'}{lc($ind_ref)};
+	else {
+		$chrom_end{$ind_ref}=$draw_chr_length[-1]+${$config}{'chrom'}{'chrom_flanking_length'};
+	}
 	if ($verbose) {
 		print "Test: chr: start - end $ind_ref: ", $chrom_start{$ind_ref}, " - ", $chrom_end{$ind_ref}, "\n";
 	}
