@@ -142,6 +142,7 @@ foreach my $ind_ref (sort keys %{$referenceids}) {
 	$chrom_start{$ind_ref}= (($draw_chr_length[0]-${$config}{'chrom'}{'chrom_flanking_length'})>0) ? ($draw_chr_length[0]-${$config}{'chrom'}{'chrom_flanking_length'}) : 1;
 	if (exists ${$config}{'chrom'} and exists ${$config}{'chrom'}{lc($ind_ref)}) {
 		$chrom_end{$ind_ref}=(($draw_chr_length[-1]+${$config}{'chrom'}{'chrom_flanking_length'})<=${$config}{'chrom'}{lc($ind_ref)}) ? ($draw_chr_length[-1]+${$config}{'chrom'}{'chrom_flanking_length'}) : ${$config}{'chrom'}{lc($ind_ref)};
+	}
 	else {
 		$chrom_end{$ind_ref}=$draw_chr_length[-1]+${$config}{'chrom'}{'chrom_flanking_length'};
 	}
