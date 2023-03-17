@@ -520,7 +520,7 @@ sub GetMarkerCoords {
 	if ($debug) {
 		print "      Coords: ",join(",", @GMCret_arr),"\n";
 	}
-	my $GMCborder=$GMCmiddle+$GMCspace+$GMClen+$GMClen/2;
+	$GMCborder=$GMCmiddle+$GMCspace+$GMClen+$GMClen/2;
 	while ($GMCborder<=$GMAright_border) {
 		push (@GMCret_arr, $GMCborder-$GMClen/2);
 		$GMCborder=$GMCborder+$GMCspace+$GMClen;
